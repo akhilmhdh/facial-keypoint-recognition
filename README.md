@@ -9,6 +9,11 @@ git clone https://github.com/akhilmhdh/facial-keypoint-recognition.git
 cd facial-keypoint-recognition
 Run the commands of ipynb (its colab file)
 ```
+## Result
+### Input
+![input image](https://github.com/akhilmhdh/facial-keypoint-recognition/blob/master/images/dhoni.jpg)
+### Output
+![output image](https://github.com/akhilmhdh/facial-keypoint-recognition/blob/master/images/facial_point.png)
 
 ### Prerequisites
 
